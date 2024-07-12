@@ -1,7 +1,18 @@
-# Manual-TesCase-DekhiBangladesh
-<h1 align="center">Hi 👋, I'm Mrityunjoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Manual Test Case
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
+
+### Website Name: Dekhi Bangladesh 
+
+
+
+## Roadmap
+
+- Test Plan
+
+- Mind Map
+- Test Scenarios
+- Test Case
+- Bug Report
+- Test Summary Report
